@@ -1,21 +1,20 @@
 <p align="center">
-  <img src="https://github.com/mewmewdevart/typescript/assets/50052600/9dc89013-0d2a-490a-ab3a-c69317c3c1d0" alt="Typescript icon" width="100px"/>
+  <img src="https://github.com/mewmewdevart/typescript/assets/50052600/67f12581-7bed-49b5-be57-ddd6dab8443d" alt="Typescript icon" width="100px"/>
 </p>
-
-
 
 <h1 align="center">
     Typescript
 </h1>
 
 <p align="center">
-    <b><i>Learning TypeScript, the syntactic superset of JavaScript that adds static typing</i></b><br>
+    <b><i>Aprendendo TypeScript, o superconjunto sintático de JavaScript que adiciona tipagem estática</i></b><br>
 </p>
 
 <p align="center">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/typescript?color=3178C6" />
-    <img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/typescript?color=3178C6" />
-    <img alt="License" src="https://img.shields.io/github/license/mewmewdevart/typescript?color=3178C6" />
+    <img alt="Tamanho do código no GitHub em bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/typescript?color=3178C6" />
+    <img alt="Linguagem principal" src="https://img.shields.io/github/languages/top/mewmewdevart/typescript?color=3178C6" />
+    <img alt="Licença" src="https://img.shields.io/github/license/mewmewdevart/typescript?color=3178C6" />
 </p>
 
-<p align="center"> Developed with love 💙 by Larissa Cristina Benedito.</p>
+<p align="center"> Desenvolvido com amor 💙 por Larissa Cristina Benedito.</p>
+
