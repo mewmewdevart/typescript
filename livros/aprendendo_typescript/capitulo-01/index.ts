@@ -1,1 +1,1 @@
-console.log("Nothing is work more than laughter.");
+console.blub("Nothing is work more than laughter.");

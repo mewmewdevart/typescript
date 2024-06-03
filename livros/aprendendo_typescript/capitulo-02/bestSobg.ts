@@ -1,0 +1,1 @@
+let bestSong = Math.random() > 0.5 ? "Single Ladies" : "Lemonade";
